@@ -1,6 +1,6 @@
 \name{insertTodayTimestamp}
 \alias{insertTodayTimestamp}
-\title{Inserts `### 2000-01-01`.}
+\title{Inserts `### 2000-01-01`}
 \usage{
 insertTodayTimestamp()
 }
