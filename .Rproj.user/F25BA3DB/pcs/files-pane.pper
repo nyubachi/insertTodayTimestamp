@@ -1,0 +1,9 @@
+{
+    "path" : "~/Dropbox/R/Addin/InsertTodayTimestamp/R",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

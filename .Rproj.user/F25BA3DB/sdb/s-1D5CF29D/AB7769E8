@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "\ninsertTodayTimestamp <- function() {\n  rstudioapi::insertText(paste(\"### \", Sys.Date(), sep = \"\"))\n}\n",
+    "created" : 1506782798992.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3120283708",
+    "id" : "AB7769E8",
+    "lastKnownWriteTime" : 1506786658,
+    "last_content_update" : 1506786658,
+    "path" : "~/Dropbox/R/Addin/insertTodayTimestamp/R/InsertTodayTImestamp.R",
+    "project_path" : "R/InsertTodayTImestamp.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,4 @@
+Name: Insert Today Timestamp
+Description: Inserts `### 2000-01-01` at the cursor position.
+Binding: insertTodayTimestamp
+Interactive: false
