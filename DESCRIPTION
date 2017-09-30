@@ -5,7 +5,8 @@ Version: 0.1.0
 Author: nyubachi
 Maintainer: nyubachi <nyubachi248@gmail.com>
 Description: Inserts `### 2000-01-01` at the cursor position.
-Imports: rstudioapi
+Imports:
+    rstudioapi
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
